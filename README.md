@@ -140,3 +140,4 @@
         - 例如：**Dockerfile_x86_64** 或 **Dockerfile_aarch64**。
         - 例如：**entrypoint_x86_64.sh** 或 **entrypoint_arrch64.sh**。
     - 如果在 docker 資料夾底下有多個 Dockerfile 或 entrypoint.sh 會使用與當前電腦系統架構相同檔案。
+# UR_training_enviroment
